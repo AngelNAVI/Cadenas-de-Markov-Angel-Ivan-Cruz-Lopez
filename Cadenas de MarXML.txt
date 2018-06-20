@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h2>Create Object from JSON String</h2>
+
+<p id="Cadenas de Markov"></p>
+
+<script>
+  <cocacola>function(){Cocacola0=.45; Pepsi0=.25; Redcola0=.30; CeC=.80; CaP=.10; CaR=.10; PaC=.03; PeP=.95; PaR=.02; RaC=.20; RaP=.05; ReR=.75;Cocacola1=Cocacola0*CeC+Pepsi0*PaC+Redcola0*RaC;return Cocacola1}</cocacola>
+  <pepsi>function(){Pepsi1=Cocacola0*CaP+Pepsi0*PeP+Redcola0*RaP; return Pepsi1}</pepsi>
+  <redcola>function(){Redcola1=Cocacola0*CaR+Pepsi0*PaR+Redcola0*ReR;return Redcola1}</redcola>
+</script>
+
+</body>
+</html>
